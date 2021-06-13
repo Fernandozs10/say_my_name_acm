@@ -1,3 +1,3 @@
-class Deadpool:
+class chapulin:
     def SayName(self):
-        print("Deadpool: Hi! I'm Captain Deadpool! No, just Deadpool.")
+        print("Chapulin: No contaban con mi astucia.")
